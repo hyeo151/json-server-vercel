@@ -1,9 +1,64 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "notes": [
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 1
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "work",
+      "details": "work",
+      "category": "work",
+      "id": 6
+    },
+    {
+      "title": "ds",
+      "details": "asdsa",
+      "category": "money",
+      "id": 7
+    },
+    {
+      "title": "pay the milkman",
+      "details": "fds",
+      "category": "money",
+      "id": 8
+    },
+    {
+      "title": "asdf",
+      "details": "asdfdsagds",
+      "category": "work",
+      "id": 9
+    },
+    {
+      "title": "sdfsdf",
+      "details": "safsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdf",
+      "category": "todos",
+      "id": 10
+    },
+    {
+      "title": "aqeq",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n\n",
+      "category": "reminders",
+      "id": 11
+    },
+    {
+      "title": "wqrqw",
+      "details": "safsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfsafsdfasdr",
+      "category": "work",
+      "id": 12
+    },
+    {
+      "title": "lorem",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n",
+      "category": "money",
+      "id": 13
+    }
+  ]
 }
